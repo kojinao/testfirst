@@ -21,6 +21,9 @@
     self.window = [[[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]] autorelease];
     int intA;
     intA=0;
+    intA=111;
+    
+    
     
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
