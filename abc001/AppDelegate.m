@@ -23,6 +23,8 @@
     intA=0;
     intA=111;
     
+    intA=222;
+    
     
     
     // Override point for customization after application launch.
